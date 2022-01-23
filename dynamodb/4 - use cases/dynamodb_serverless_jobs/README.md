@@ -12,7 +12,7 @@ Requirements:
 
 ## Step 1
 
-Execute terraform script to create a following arquitecture:
+Executing terraform script will be created a following architecture:
 
-![](https://github.com/data-examples/dynamodb/4 - use cases/dynamodb_serverless_jobs/assets/images/single_serverless.png?raw=true) <br />
+![](https://github.com/data-examples/repo_assets\images\single_serverless.png?raw=true) <br />
 
