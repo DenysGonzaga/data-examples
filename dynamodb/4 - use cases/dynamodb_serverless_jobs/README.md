@@ -14,5 +14,5 @@ Requirements:
 
 Executing terraform script will be created a following architecture:
 
-![](https://github.com/data-examples/repo_assets/images/single_serverless.png?raw=true) <br />
+![](https://github.com/DenysNunes/data-examples/repo_assets/images/single_serverless.png?raw=true) <br />
 
